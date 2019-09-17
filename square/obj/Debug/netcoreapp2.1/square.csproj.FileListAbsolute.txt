@@ -1,0 +1,11 @@
+C:\Users\user\documents\square\square\obj\Debug\netcoreapp2.1\square.csprojAssemblyReference.cache
+C:\Users\user\documents\square\square\obj\Debug\netcoreapp2.1\square.csproj.CoreCompileInputs.cache
+C:\Users\user\documents\square\square\obj\Debug\netcoreapp2.1\square.AssemblyInfoInputs.cache
+C:\Users\user\documents\square\square\obj\Debug\netcoreapp2.1\square.AssemblyInfo.cs
+C:\Users\user\documents\square\square\bin\Debug\netcoreapp2.1\square.deps.json
+C:\Users\user\documents\square\square\bin\Debug\netcoreapp2.1\square.runtimeconfig.json
+C:\Users\user\documents\square\square\bin\Debug\netcoreapp2.1\square.runtimeconfig.dev.json
+C:\Users\user\documents\square\square\bin\Debug\netcoreapp2.1\square.dll
+C:\Users\user\documents\square\square\bin\Debug\netcoreapp2.1\square.pdb
+C:\Users\user\documents\square\square\obj\Debug\netcoreapp2.1\square.dll
+C:\Users\user\documents\square\square\obj\Debug\netcoreapp2.1\square.pdb
